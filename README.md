@@ -12,12 +12,12 @@ Cara Install Via Android :
 - pip2 install thrift==0.9.3<br>
 - pkg install git<br>
 - pkg install nano<br>
-- git clone https://github.com/andyihsan/LIN3-TCR<br>
+- git clone https://github.com/4NDcyb3r/10-bot<br>
 - Selesai
 
 Cara Membuka/Mengedit File :
 - Wajib Pakai Keyboard Hacker Download di PS<br>
-- cd LIN3-TCR && nano line-tcr.py<br>
+- cd LIN3-TCR && nano 10-bot.py<br>
 - Selesai Edit Save CTRL + X Lalu Y, Dan Enter<br>
 - Keluarkan Termux<br>
 
@@ -26,5 +26,5 @@ Cara Membuka/Mengedit File Via Internal :
 - masuk root/data/data/com.termux/file/home/LIN3-TCR/line-tcr.py<br>
 
 Cara Menjalankan Bot :
-- cd LIN3-TCR && python2 line-tcr.py<br>
+- cd LIN3-TCR && python2 10-bot.py<br>
 - Loginkan Dengan Akun Bot Kalian Lalu Masukkan MID Admin
